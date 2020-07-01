@@ -1,8 +1,8 @@
 Name:           oa-proj6
-Version:        6.2.1
+Version:        xVERSIONx
 %global         gittag %{version}
 %global         prefix_path /usr/local/proj6
-Release:        1%{?dist}
+Release:        xRELEASEx%{?dist}
 Summary:        OSGEO PROJ coordinate transformation software library.
 License:        GPL
 URL:            https://github.com/OSGeo/PROJ.git
